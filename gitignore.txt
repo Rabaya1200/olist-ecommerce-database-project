@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables / Secrets
+.env
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
